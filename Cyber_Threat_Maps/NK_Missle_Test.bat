@@ -1,0 +1,1 @@
+start chrome.exe --app=https://nagix.github.io/nk-missile-tests/

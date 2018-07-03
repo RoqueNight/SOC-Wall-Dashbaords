@@ -1,0 +1,1 @@
+start chrome.exe --app=https://mhn.h-i-r.net/dash/

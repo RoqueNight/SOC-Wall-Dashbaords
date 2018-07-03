@@ -1,0 +1,1 @@
+start chrome.exe --app=http://8map.de/maps/

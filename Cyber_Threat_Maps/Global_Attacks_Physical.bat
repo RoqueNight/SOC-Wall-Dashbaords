@@ -1,0 +1,1 @@
+start chrome.exe --app=https://storymaps.esri.com/stories/terrorist-attacks/?year=2017

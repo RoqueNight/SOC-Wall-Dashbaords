@@ -1,0 +1,1 @@
+start chrome.exe --app=http://global-internet-map-2017.telegeography.com/

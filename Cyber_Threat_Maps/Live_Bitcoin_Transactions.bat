@@ -1,0 +1,1 @@
+start chrome.exe --app=http://bitcointicker.co/transactions/globe/

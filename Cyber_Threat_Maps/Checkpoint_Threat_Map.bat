@@ -1,0 +1,1 @@
+start chrome.exe --app=https://threatmap.checkpoint.com/ThreatPortal/livemap.html

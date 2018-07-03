@@ -1,0 +1,1 @@
+start chrome.exe --app=http://www.earthquake3d.com/

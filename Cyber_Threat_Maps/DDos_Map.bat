@@ -1,0 +1,1 @@
+start chrome.exe --app=http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17329&view=map

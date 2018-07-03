@@ -1,0 +1,1 @@
+start chrome.exe --app=https://planefinder.net/

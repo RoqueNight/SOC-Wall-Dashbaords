@@ -1,0 +1,1 @@
+start chrome.exe --app=http://www.securitywizardry.com/radar.htm

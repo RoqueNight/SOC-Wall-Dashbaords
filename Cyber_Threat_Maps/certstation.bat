@@ -1,0 +1,1 @@
+start chrome.exe --app=http://dashboard.certstation.com/index.php/dashboard/fullscreen

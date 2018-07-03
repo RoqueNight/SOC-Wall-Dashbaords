@@ -1,0 +1,1 @@
+start chrome.exe --app=https://community.blueliv.com/map/

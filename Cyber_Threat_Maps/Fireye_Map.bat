@@ -1,0 +1,1 @@
+start chrome.exe --app=https://www.fireeye.com/cyber-map/threat-map.html
